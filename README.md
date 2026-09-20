@@ -1,4 +1,4 @@
-# ⚠️ TP 9 : Gestion des Exceptions et Journalisation en Java
+⚠️ TP 9 : Gestion des Exceptions et Journalisation en Java
 
 Ce dépôt contient la résolution du TP 9 axé sur la gestion des erreurs et la robustesse en Java via le mécanisme des exceptions, l'utilisation de `try-with-resources` et la journalisation.
 
