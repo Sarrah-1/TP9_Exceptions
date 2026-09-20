@@ -1,0 +1,20 @@
+[2026-09-20T11:07:27.674564500] ERREUR: Échec de validation pour User[nom=, age=32]
+com.example.tp.InvalidUserException: Nom d'utilisateur invalide (vide ou null)
+	at com.example.tp.User.validate(User.java:13)
+	at com.example.tp.MainUser.main(MainUser.java:13)
+-----------
+[2026-09-20T11:07:27.688023400] ERREUR: Échec de validation pour User[nom=KARIMA, age=17]
+com.example.tp.InvalidUserException: Utilisateur mineur (âge=17)
+	at com.example.tp.User.validate(User.java:16)
+	at com.example.tp.MainUser.main(MainUser.java:13)
+-----------
+[2026-09-20T11:16:00.835198600] ERREUR: Échec de validation pour User[nom=, age=32]
+com.example.tp.InvalidUserException: Nom d'utilisateur invalide (vide ou null)
+	at com.example.tp.User.validate(User.java:13)
+	at com.example.tp.MainUser.main(MainUser.java:13)
+-----------
+[2026-09-20T11:16:00.844968800] ERREUR: Échec de validation pour User[nom=KARIMA, age=17]
+com.example.tp.InvalidUserException: Utilisateur mineur (âge=17)
+	at com.example.tp.User.validate(User.java:16)
+	at com.example.tp.MainUser.main(MainUser.java:13)
+-----------
